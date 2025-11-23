@@ -1,4 +1,4 @@
-<img width="476" height="299" alt="Screenshot 2025-11-23 184954" src="https://github.com/user-attachments/assets/518de763-9c9a-4636-bfdb-881f0ea899ea" /># HALF_ADDER_SUBTRACTOR
+# HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 

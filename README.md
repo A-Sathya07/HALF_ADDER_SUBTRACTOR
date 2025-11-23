@@ -70,6 +70,7 @@ Developed by:A SATHYA NARAYANAN
 RegisterNumber:25016804
 
 **RTL Schematic**
+
 <img width="476" height="299" alt="Screenshot 2025-11-23 184954" src="https://github.com/user-attachments/assets/a9e7ab8b-f9d3-4dee-853e-7b2fddeacaef" />
 
 
@@ -79,4 +80,4 @@ RegisterNumber:25016804
 
 
 **Result:**
-
+Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
